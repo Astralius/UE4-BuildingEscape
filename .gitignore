@@ -72,3 +72,6 @@
 
 # Cache files for the editor to use
 */DerivedDataCache/*
+
+# UE4 Starter Content
+*/Content/StarterContent/*
